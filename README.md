@@ -1,3 +1,30 @@
+# Sleep and Health Analysis Project
+
+### **Project Overview**
+In this project, I analyzed a dataset focused on sleep patterns, health metrics, and lifestyle factors, aiming to uncover relationships between **sleep quality**, **physical activity**, **age**, **gender**, and other health-related data. This analysis was conducted using **Power BI**, where interactive visualizations were created to explore various health and sleep metrics.
+
+### **Dataset**
+The dataset consists of several health-related fields, including:
+- **Age**: The age of individuals.
+- **Bedtime**: The time individuals go to bed.
+- **Calories Burned**: The total number of calories burned per day.
+- **Daily Steps**: The number of steps taken per day.
+- **Dietary Habits**: The dietary categories of individuals.
+- **Gender**: The gender of individuals (Male or Female).
+- **Medication Usage**: Whether individuals use medication.
+- **Physical Activity Level**: The physical activity category (Low, Medium, High).
+- **Sleep Disorders**: Whether an individual has reported sleep disorders.
+- **Sleep Quality**: A rating of the individual's sleep quality.
+- **Wake Up Time**: The time individuals wake up.
+
+### **Objective**
+The main objective of this project was to understand how various health and lifestyle factors, such as physical activity and age, correlate with sleep quality and
+
+
+
+
+
+
 Sleep and Health Analysis Project
 Project Overview
 In this project, I analyzed a dataset focused on sleep patterns, health metrics, and lifestyle factors, aiming to uncover relationships between sleep quality, physical activity, age, gender, and other health-related data. This analysis was conducted using Power BI, where interactive visualizations were created to explore various health and sleep metrics.
