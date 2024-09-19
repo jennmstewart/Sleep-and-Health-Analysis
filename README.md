@@ -87,6 +87,5 @@ Files Included
 Power BI Report (.pbix): The interactive Power BI report that contains all the visualizations and insights.
 PDF Export: A static PDF version of the report for offline viewing.
 Interactive Power BI Report
-View the interactive Power BI report here
 
 [View the interactive Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiYzY5MWM3NGUtZGM3MS00NDA0LWJkODYtMDFhYWRiMzJkNTg2IiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9)
